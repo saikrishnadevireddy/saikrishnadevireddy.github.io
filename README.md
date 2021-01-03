@@ -1,2 +1,1 @@
-# Sai Krishna Devireddy
-An aspiring Machine Learning Engineer
+A place where models are trained
